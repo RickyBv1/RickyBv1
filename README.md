@@ -2,17 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyBv1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="165" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif"  />
-
-###
-
-<div align="left">
+<div align="left" height="150">
+  <h2 align="left">Some of my skills are: </h2>
+   <img align="right" height="200" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="45" alt="angularjs logo"  />
@@ -35,6 +27,13 @@
 ###
 
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyBv1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="165" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <h2 align="left">My social media: </h2>
   <a href="https://www.linkedin.com/in/ricardo-cortes-b29739179/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
   </a>
