@@ -45,11 +45,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="57" height="45" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RickyBv1/RickyBv1/output/snake.svg" alt="Snake animation" />
-
-###
