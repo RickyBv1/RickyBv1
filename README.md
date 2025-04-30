@@ -46,7 +46,31 @@
 </div>
 
 ###
+
 <div align="center">
   
   ![snake gif](https://github.com/RickyBv1/RickyBv1/blob/output/github-snake-dark.svg)
+</div>
+
+###
+
+<div align="center">
+   <h2 align="left">My personal Portfolio: </h2>
+  <a align="center" text-decoration="none" href="https://ricardocortes-portfolio.netlify.app/" target="_blank">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/portfolio-logo-black-and-white.png" alt="portfolio" width="150" height="150">
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <h2 align="left">Besides from coding, I like 🔥</h2>
+  <p align="left">
+    
+  - Downhill mountain biking 🚵🏼
+    
+  - Gaming 👾
+    
+  - J-Rock 🎵
+  </p>
 </div>
