@@ -74,3 +74,12 @@
   - J-Rock 🎵
   </p>
 </div>
+
+<!-----
+
+<div align="center" style="margin-top:32px; margin-bottom:16px;">
+
+✨ <b><a href="https://www.linkedin.com/in/ricardo-cortes-b29739179/" target="_blank" style="color:#0a66c2;">Original template made by Ricardo Cortés</a></b> ✨
+
+</div>
+-->
