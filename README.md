@@ -64,7 +64,7 @@
 ###
 
 <div align="left">
-  <h2 align="left">Besides from coding, I like 🔥</h2>
+  <h2 align="left">Besides coding, I like 🔥</h2>
   <p align="left">
     
   - Downhill mountain biking 🚵🏼
