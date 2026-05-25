@@ -56,7 +56,7 @@ const ricardo = {
 **Frontend**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,angular,react,nextjs,ts,js,tailwind,scss,html,css&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,angular,react,nextjs,flutter,ts,js,tailwind,scss,html,css&theme=dark&perline=11" />
 </div>
 
 <br/>
@@ -64,7 +64,7 @@ const ricardo = {
 **Tooling & Platforms**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,nodejs,cloudflare,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,nodejs,cloudflare,netlify,vercel,vscode&theme=dark" />
 </div>
 
 <br/>
@@ -91,13 +91,13 @@ const ricardo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickyBv1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickyBv1&theme=tokyonight" height="170"/>
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=RickyBv1&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyBv1&locale=en&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickyBv1&theme=tokyonight" height="165"/>
 </div>
 
 ---
