@@ -1,85 +1,120 @@
-<h1 align="left">Hi 👋! My name is Ricardo and I'm a Front-end dev 🚀</h1>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ricardo%20Cort%C3%A9s&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Technical%20Lead%20%7C%20UI%20Craftsman&descAlignY=58&descSize=18" width="100%"/>
 
-###
-
-<div align="left" height="150">
-  <h2 align="left">My skills main are: </h2>
-  <img align="right" height="180" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="45" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="45" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Frontend+Technical+Lead+%40+Ziontechnologie;Co-founder+%40+Intelli+System+Solutions;Vue.js+%26+TypeScript+are+my+home;Building+UIs+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyBv1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="165" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <h2 align="left">My social media: </h2>
+<!-- SOCIAL BADGES -->
+<div align="center">
   <a href="https://www.linkedin.com/in/ricardo-cortes-b29739179/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/rickycortes24/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
   <a href="https://x.com/Bv1Ricky" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="57" height="45" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/rickycortes24/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;
+  <a href="https://rickycortes03.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://intellisystemsolutions.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Intelli%20System%20Solutions-7AA2F7?style=for-the-badge&logo=rocketdotchat&logoColor=white" alt="Intelli System Solutions"/>
   </a>
 </div>
 
-###
+<br/>
 
 <div align="center">
-  
-  ![snake gif](https://github.com/RickyBv1/RickyBv1/blob/output/github-snake-dark.svg)
+  <img src="https://komarev.com/ghpvc/?username=RickyBv1&label=Profile+Views&color=7aa2f7&style=flat" alt="profile views" />
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+```js
+const ricardo = {
+  role:      "Frontend Technical Lead @ Ziontechnologie SA",
+  agency:    "Co-founder @ Intelli System Solutions 🚀",
+  location:  "New York, USA / Ecuador 🌎",
+  stack:     ["Vue.js 3", "Nuxt 3", "TypeScript", "Angular", "React", "Next.js"],
+  passions:  ["clean UI", "pixel-perfect design", "mentoring teams"],
+  currently: "Deepening Next.js 16 + React 19",
+  fun:       "Fast UIs by day, fast trails by weekend 🚵‍♂️",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,angular,react,nextjs,ts,js,tailwind,scss,html,css&theme=dark&perline=11" />
+</div>
+
+<br/>
+
+**Tooling & Platforms**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,nodejs,cloudflare,vscode&theme=dark" />
+</div>
+
+<br/>
+
+**Animation Libraries**
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Anime.js-FF4081?style=for-the-badge&logo=javascript&logoColor=white" alt="Anime.js"/>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack |
+|---------|-------|
+| **[Intelli System Solutions](https://intellisystemsolutions.com/)** — Tech agency I co-founded | `Vue 3` `Nuxt 3` `TypeScript` `Cloudflare` `i18n` |
+| **[Tic-Tac-Toe Online](https://tic-tac-toe-online-ricky.netlify.app/)** — Real-time multiplayer game | `Angular 19` `Node.js` `Socket.IO` `TypeScript` |
+| **[Portfolio v2](https://ricardocortes-portfolio.netlify.app/)** — Angular portfolio | `Angular 17` `TypeScript` `SCSS` |
+| **[Typing Test](https://rickybv1.github.io/Typing-test/)** — Speed typing app | `HTML` `CSS` `JavaScript` |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-   <h2 align="left">My personal Portfolio: </h2>
-  <a align="center" text-decoration="none" href="https://rickycortes03.vercel.app/" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/portfolio-logo-black-and-white.png" alt="portfolio" width="150" height="150">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RickyBv1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=RickyBv1&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
-###
-
-<div align="left">
-  <h2 align="left">Besides coding, I like 🔥</h2>
-  <p align="left">
-    
-  - Downhill mountain biking 🚵🏼
-    
-  - Gaming 👾
-    
-  - J-Rock 🎵
-  </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyBv1&locale=en&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
-<!-----
+---
 
-<div align="center" style="margin-top:32px; margin-bottom:16px;">
+## 🔥 Beyond the Code
 
-✨ <b><a href="https://www.linkedin.com/in/ricardo-cortes-b29739179/" target="_blank" style="color:#0a66c2;">Original template made by Ricardo Cortés</a></b> ✨
+🚵‍♂️ &nbsp;**Downhill mountain biking** — speed therapy on two wheels  
+👾 &nbsp;**Gaming** — always up for a match  
+🎵 &nbsp;**J-Rock** — the soundtrack to every debug session  
+
+---
+
+<div align="center">
+
+![snake gif](https://github.com/RickyBv1/RickyBv1/blob/output/github-snake-dark.svg)
 
 </div>
--->
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
