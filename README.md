@@ -10,7 +10,7 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/ricardo-cortes-b29739179/" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardo-cort%C3%A9s-b29739179/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://x.com/Bv1Ricky" target="_blank">
