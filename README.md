@@ -56,7 +56,7 @@
 
 <div align="center">
    <h2 align="left">My personal Portfolio: </h2>
-  <a align="center" text-decoration="none" href="https://ricardocortes-portfolio.netlify.app/" target="_blank">
+  <a align="center" text-decoration="none" href="https://rickycortes03.vercel.app/" target="_blank">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/portfolio-logo-black-and-white.png" alt="portfolio" width="150" height="150">
   </a>
 </div>
