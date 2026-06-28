@@ -81,9 +81,9 @@ const ricardo = {
 
 | Project | Stack |
 |---------|-------|
-| **[Intelli System Solutions](https://intellisystemsolutions.com/)** — Tech agency I co-founded | `Vue 3` `Nuxt 3` `TypeScript` `Cloudflare` `i18n` |
+| **[Intelli System Solutions](https://intellisystemsolutions.com/)** — Tech agency I co-founded | `Next.js 15` `React 19` `TypeScript` `Cloudflare` `i18n` |
 | **[Tic-Tac-Toe Online](https://tic-tac-toe-online-ricky.netlify.app/)** — Real-time multiplayer game | `Angular 19` `Node.js` `Socket.IO` `TypeScript` |
-| **[Portfolio v2](https://ricardocortes-portfolio.netlify.app/)** — Angular portfolio | `Angular 17` `TypeScript` `SCSS` |
+| **[Portfolio v3](https://rickycortes03.vercel.app/)** — Next.js portfolio | `Next.js 16` `TypeScript` `SCSS` |
 | **[Typing Test](https://rickybv1.github.io/Typing-test/)** — Speed typing app | `HTML` `CSS` `JavaScript` |
 
 ---
